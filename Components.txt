@@ -1,0 +1,5 @@
+This program requires the following third party components:
+
+TSynUniSyn (modified, source ang packages included),
+TSynEdit (modified, source included, packages at synedit.sourceforge.net),
+JCL and JVCL (jvcl.sourceforge.net).

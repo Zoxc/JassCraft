@@ -1,0 +1,22 @@
+object TipForm: TTipForm
+  Left = 388
+  Top = 260
+  BorderStyle = bsNone
+  Caption = 'TipForm'
+  ClientHeight = 19
+  ClientWidth = 115
+  Color = 11195050
+  DefaultMonitor = dmPrimary
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  OnPaint = FormPaint
+  PixelsPerInch = 96
+  TextHeight = 13
+end
